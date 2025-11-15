@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TokenTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-11-15T17:21:37.869Z" hostname="DESKTOP-D8J849T" time="0.007">
+  <properties/>
+  <testcase name="token_has_only_one_ctor()" classname="TokenTest" time="0.0"/>
+  <testcase name="test_PlayerToken_label()" classname="TokenTest" time="0.001"/>
+  <testcase name="token_has_label()" classname="TokenTest" time="0.001"/>
+  <testcase name="class_Token_is_abstract()" classname="TokenTest" time="0.001"/>
+  <testcase name="test_EmptyToken_label()" classname="TokenTest" time="0.001"/>
+  <testcase name="test_GoldToken_label()" classname="TokenTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
